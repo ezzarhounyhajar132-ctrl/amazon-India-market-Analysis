@@ -118,14 +118,14 @@ Features:
 
 ![Insights_Amazon](images/Insight_Amazon_excel.png)
 
-![Amazon_gif](images/excel_gif.png)
+![Amazon_gif](images/excel_gif.gif)
 
 ### Power BI Dashboard
 ![Overview_powerbi](images/Overview_Amazon_powerbi.png)
 
 ![Insights_powerbi](images/Insights_Amazon_powerbi.png)
 
-![Gif_powerbi](images/Gif_Amazon_powerbi.png)
+![Gif_powerbi](images/Gif_Amazon_powerbi.gif)
 
 ---
 
