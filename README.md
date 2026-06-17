@@ -114,18 +114,18 @@ Features:
 ## Dashboard Preview
 
 ### Excel Dashboard
-![Excel Overview](screenshots/Overview_Amazon_excel.png)
+![Overview_excel](screenshots/Overview_Amazon_excel.png)
 
-![Excel Insights](screenshots/Insights_Amazon_excel.png)
+![Insights_excel](screenshots/Insights_Amazon_excel.png)
 
-![Excel gif](screenshots/gif_Amazon_excel.png)
+![excel gif](screenshots/gif_Amazon_excel.png)
 
 ### Power BI Dashboard
-![Power BI Overview](screenshots/Overview_Amazon_powerbi.png)
+![Overview_powerbi](screenshots/Overview_Amazon_powerbi.png)
 
-![Power BI Insights](screenshots/Insights_Amazon_powerbi.png)
+![Insights_powerbi](screenshots/Insights_Amazon_powerbi.png)
 
-![Power BI gif](screenshots/gif_Amazon_powerbi.png)
+![Gif_powerbi](screenshots/gif_Amazon_powerbi.png)
 
 ---
 
