@@ -69,4 +69,4 @@ group by discount_range;
   from amazon_final
   group by price_range;
   
-  select *from amazon_final ;
+ 
